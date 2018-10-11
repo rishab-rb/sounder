@@ -118,3 +118,6 @@ This method is just a utility to help you do the entire intent recognization fro
 ## Practical Usage
 
 This algorithm is the brain of [Stephanie](https://slapbot.github.io), an open-source platform built specifically for voice-controlled application as well as to automate daily tasks imitating much of an virtual assistant's work.
+
+
+## not gonna happen
